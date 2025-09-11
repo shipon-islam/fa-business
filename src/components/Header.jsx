@@ -69,7 +69,7 @@ export default function Header() {
                     alt="Logo"
                     width={120}
                     height={120}
-                    className="w-24 h-auto lg:w-full lg:h-full object-cover"
+                    className="w-24 h-auto lg:w-32 lg:h-auto object-cover"
                   />
                 </Link>
               </div>

@@ -38,7 +38,7 @@ export default function BlogSection({ isHeading = true, blogs }) {
                     alt="blog"
                     width={340}
                     height={250}
-                    className="w-full h-[250px] rounded-md object-cover"
+                    className="w-full max-w-[340px] mx-auto h-[250px] rounded-md object-cover"
                   />
                   <div className="mt-6 lg:mt-8 mb-6 lg:mb-10">
                     <h5 className="">{item.date}</h5>
