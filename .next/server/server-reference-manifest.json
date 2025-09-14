@@ -1,1 +1,50 @@
-{"node":{"7f274afe55bbede7f16077b77e53debf256dd6dfd5":{"workers":{"app/blogs/[id]/page":{"moduleId":"893","async":false},"app/author/[id]/page":{"moduleId":"893","async":false},"app/blogs/page":{"moduleId":"893","async":false},"app/page":{"moduleId":"21257","async":false}},"layer":{"app/blogs/[id]/page":"rsc","app/author/[id]/page":"rsc","app/blogs/page":"rsc","app/page":"rsc"}},"7f6c5d35180aa09e1143379fd1247fe45c294fc550":{"workers":{"app/blogs/[id]/page":{"moduleId":"893","async":false},"app/author/[id]/page":{"moduleId":"893","async":false},"app/blogs/page":{"moduleId":"893","async":false},"app/page":{"moduleId":"21257","async":false}},"layer":{"app/blogs/[id]/page":"rsc","app/author/[id]/page":"rsc","app/blogs/page":"rsc","app/page":"rsc"}},"7fff90ed688b091b9dd58eb61e8cc251dc1edd4ded":{"workers":{"app/blogs/[id]/page":{"moduleId":"893","async":false},"app/author/[id]/page":{"moduleId":"893","async":false},"app/blogs/page":{"moduleId":"893","async":false},"app/page":{"moduleId":"21257","async":false}},"layer":{"app/blogs/[id]/page":"rsc","app/author/[id]/page":"rsc","app/blogs/page":"rsc","app/page":"rsc"}},"7fb4c01cf5be752a465a41ea024f0ff3efbc3e2a59":{"workers":{"app/services/page":{"moduleId":"32543","async":false},"app/page":{"moduleId":"21257","async":false}},"layer":{"app/services/page":"rsc","app/page":"rsc"}}},"edge":{},"encryptionKey":"zHuID68v5itaPnWkC3I0IDYjYzun8zC75qKSmroXT54="}
+{
+  "node": {
+    "7f0566bcb4b6ba87dc01322004c6ade3acfef423b2": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetBlogs.js%22%2C%5B%7B%22id%22%3A%227f0566bcb4b6ba87dc01322004c6ade3acfef423b2%22%2C%22exportedName%22%3A%22getBlogById%22%7D%2C%7B%22id%22%3A%227f95a30bef118650f6df55b46f13d6496f4b2a5ec6%22%2C%22exportedName%22%3A%22getBlogs%22%7D%2C%7B%22id%22%3A%227fa294674ffec59b44a351adf1b9f79d928faee87a%22%2C%22exportedName%22%3A%22getBlogByAuthorId%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetFeedback.js%22%2C%5B%7B%22id%22%3A%227fa1f6021632540f46aeae3c2069eaab7146cd1211%22%2C%22exportedName%22%3A%22getFeedback%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7f95a30bef118650f6df55b46f13d6496f4b2a5ec6": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetBlogs.js%22%2C%5B%7B%22id%22%3A%227f0566bcb4b6ba87dc01322004c6ade3acfef423b2%22%2C%22exportedName%22%3A%22getBlogById%22%7D%2C%7B%22id%22%3A%227f95a30bef118650f6df55b46f13d6496f4b2a5ec6%22%2C%22exportedName%22%3A%22getBlogs%22%7D%2C%7B%22id%22%3A%227fa294674ffec59b44a351adf1b9f79d928faee87a%22%2C%22exportedName%22%3A%22getBlogByAuthorId%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetFeedback.js%22%2C%5B%7B%22id%22%3A%227fa1f6021632540f46aeae3c2069eaab7146cd1211%22%2C%22exportedName%22%3A%22getFeedback%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7fa294674ffec59b44a351adf1b9f79d928faee87a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetBlogs.js%22%2C%5B%7B%22id%22%3A%227f0566bcb4b6ba87dc01322004c6ade3acfef423b2%22%2C%22exportedName%22%3A%22getBlogById%22%7D%2C%7B%22id%22%3A%227f95a30bef118650f6df55b46f13d6496f4b2a5ec6%22%2C%22exportedName%22%3A%22getBlogs%22%7D%2C%7B%22id%22%3A%227fa294674ffec59b44a351adf1b9f79d928faee87a%22%2C%22exportedName%22%3A%22getBlogByAuthorId%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetFeedback.js%22%2C%5B%7B%22id%22%3A%227fa1f6021632540f46aeae3c2069eaab7146cd1211%22%2C%22exportedName%22%3A%22getFeedback%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7fa1f6021632540f46aeae3c2069eaab7146cd1211": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetBlogs.js%22%2C%5B%7B%22id%22%3A%227f0566bcb4b6ba87dc01322004c6ade3acfef423b2%22%2C%22exportedName%22%3A%22getBlogById%22%7D%2C%7B%22id%22%3A%227f95a30bef118650f6df55b46f13d6496f4b2a5ec6%22%2C%22exportedName%22%3A%22getBlogs%22%7D%2C%7B%22id%22%3A%227fa294674ffec59b44a351adf1b9f79d928faee87a%22%2C%22exportedName%22%3A%22getBlogByAuthorId%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CShipon%20Islam%5C%5CDesktop%5C%5CNext-Project%5C%5Cfabusiness%5C%5Csrc%5C%5Cutility%5C%5CgetFeedback.js%22%2C%5B%7B%22id%22%3A%227fa1f6021632540f46aeae3c2069eaab7146cd1211%22%2C%22exportedName%22%3A%22getFeedback%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "WYKnY8diBffybIqdwfTFAz6a2cc/6a0vyrf2plhRTuA="
+}

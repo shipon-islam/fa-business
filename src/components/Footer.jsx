@@ -201,7 +201,16 @@ export default function Footer() {
           </div>
         </div>
         <div className="text-center py-4 border-t lg:border-t-none border-white/10">
-          <p>Powered By AWTOMATIG</p>
+          <p>
+            Powered By{" "}
+            <a
+              className="hover:underline hover:text-gold"
+              href="https://awtomatig.com/"
+              target="_blank"
+            >
+              AWTOMATIG
+            </a>
+          </p>
         </div>
       </div>
     </footer>
